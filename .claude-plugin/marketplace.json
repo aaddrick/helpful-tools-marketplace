@@ -7,7 +7,7 @@
   },
   "metadata": {
     "description": "A marketplace for helpful Claude Code plugins",
-    "version": "1.0.0"
+    "version": "1.0.1"
   },
   "plugins": [
     {
@@ -27,7 +27,6 @@
       "license": "MIT",
       "keywords": ["github", "gh", "cli", "search", "git", "code-search", "issues", "pull-requests", "repositories", "commits"],
       "category": "developer-tools",
-      "hooks": "./hooks/hooks.json",
       "strict": false
     }
   ]
